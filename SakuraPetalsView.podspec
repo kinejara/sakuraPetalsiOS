@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author           = { 'You' => 'you@example.com' }
 
   # For local development, the source is this folder. (When publishing, switch to :git + tag)
-  s.source           = { :path => '.' }
+  s.source           = { :git => 'https://github.com/kinejara/sakuraPetalsiOS.git' }
   s.static_framework = true
   s.ios.deployment_target = '13.0'
   s.swift_versions    = ['5.0', '5.7', '5.8', '5.9', '5.10']
