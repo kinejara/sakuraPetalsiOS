@@ -8,11 +8,7 @@
 
 Check out the animation in action:
 
-[![Watch the demo]](https://www.youtube.com/shorts/wIb4kWPS5Y8)
-
-Or embed directly (if supported):
-
-<video src="Assets/sakura_demo.mp4" controls width="480"></video>
+![Sakura animation](/demo.gif)
 
 ---
 
